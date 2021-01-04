@@ -1,7 +1,9 @@
 const axios = require('axios');
 require('dotenv').config();
 
-axios.get(process.env.GET_DATA)
+var API_URL = process.env.GET_DATA
+
+axios.get(API_URL)
   .then(function (response) {
     var quotes_data = response.data[0].quotes;
     var author_name = response.data[0].author;
