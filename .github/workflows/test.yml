@@ -21,7 +21,7 @@ jobs:
       uses: actions/setup-node@v2.1.4
       with:
         node-version: ${{ matrix.node-version }}
-      env:
-        GET_DATA: ${{ secrets.GET_DATA }}
     - run: yarn
     - run: yarn test
+      env:
+        GET_DATA: ${{ secrets.GET_DATA }}

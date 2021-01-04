@@ -1,15 +1,24 @@
 const axios = require('axios');
 require('dotenv').config();
 
-var API_URL = process.env.GET_DATA
+var API_URL = process.env.GET_DATA;
 
-axios.get(API_URL)
-  .then(function (response) {
-    var quotes_data = response.data[0].quotes;
-    var author_name = response.data[0].author;
-    console.log(quotes_data + '\n');
-    console.log('written by ' + author_name);
-  })
-  .catch(function (error) {
-    console.log(error);
-  })
+  if (API_URL) {
+      var url = API_URL
+      axios({
+              method: 'GET',
+              url: url
+          })
+          .then(function(response) {
+              console.log(response.data);
+          })
+          .catch(function(error) {
+              if (!error.response) {
+                  console.log('API URL is Missing');
+              } else {
+                  console.log('Something Went Wrong - Enter the Correct API URL');
+              }
+          });
+  } else {
+      console.log('Config Error: API URL is Missing');
+  }
