@@ -1,0 +1,29 @@
+{
+  "name": "quotes-data",
+  "version": "1.0.0",
+  "description": "Scrape Quotes with Author from Different API Source.",
+  "private": true,
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js",
+    "start" : "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mskian/quotes-data.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mskian/quotes-data/issues"
+  },
+  "homepage": "https://github.com/mskian/quotes-data/#readme",
+  "keywords": [
+    "quotes",
+    "random quotes"
+  ],
+  "author": "Santhosh Veer",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.21.0",
+    "dotenv": "^8.2.0"
+  }
+}
