@@ -1,203 +1,515 @@
-﻿id,author,quotestext
-3,Tryon Edwards,"He that never changes his opinions, never corrects his mistakes, and will never be wiser on the morrow than he is today."
-4,Chinese proverb,"If you are patient in one moment of anger, you will escape one hundred days of sorrow."
-5,Lao Tzu,The journey of a thousand miles begins with one step.
-6,Mother Teresa,"If you can't feed a hundred people, then feed just one."
-7,Daisaku Ikeda,"True happiness means forging a strong spirit that is undefeated, no matter how trying our circumstances."
-8,Bruce Lee,Take no thought of who is right or wrong or who is better than. Be not for or against.
-9,Confucius,To be wrong is nothing unless you continue to remember it.
-10,Buddha,"To live a pure unselfish life, one must count nothing as ones own in the midst of abundance."
-11,Thomas Edison,Many of life's failures are people who did not realize how close they were to success when they gave up.
-12,Lawrence Peter,"If you don't know where you are going, you will probably end up somewhere else."
-13,Alfred Sheinwold,Learn all you can from the mistakes of others. You won't have time to make them all yourself.
-14,Seneca,The mind unlearns with difficulty what it has long learned.
-15,Richard Bach,"If you love someone, set them free. If they come back they're yours; if they don't they never were."
-16,John Lennon,"Yeah we all shine on, like the moon, and the stars, and the sun."
-18,Leonardo da Vinci,Who sows virtue reaps honour.
-19,M. Scott Peck,"Until you value yourself, you won't value your time. Until you value your time, you won't do anything with it."
-21,Byron Pulsifer,"Everyone can taste success when the going is easy, but few know how to taste victory when times get tough."
-22,Thich Nhat Hanh,"Smile, breathe and go slowly."
-23,Socrates,Be as you wish to seem.
-24,Jean Lacordaire,"We are the leaves of one branch, the drops of one sea, the flowers of one garden."
-25,Albert Camus,"In the depth of winter, I finally learned that there was within me an invincible summer."
-27,Margaret Bonnano,It is only possible to live happily ever after on a day to day basis.
-28,Aesop,"No act of kindness, no matter how small, is ever wasted."
-29,Jon Kabat-Zinn,"You can't stop the waves, but you can learn to surf."
-30,Sophocles,Wisdom is the supreme part of happiness.
-31,Ovid,The cause is hidden. The effect is visible to all.
-32,William Shakespeare,"Speak low, if you speak love."
-33,Henry Thoreau,The world is but a canvas to the imagination.
-34,Voltaire,"The longer we dwell on our misfortunes, the greater is their power to harm us."
-36,Desiderius Erasmus,The fox has many tricks. The hedgehog has but one. But that is the best of all.
-37,Tywin,A lion does not concern himself with the opinion of sheep.
-38,John Dewey,"Without some goals and some efforts to reach it, no man can live."
-40,A. Powell Davies,Life is just a chance to grow a soul.
-41,Antoine de Saint-Exupery,I know but one freedom and that is the freedom of the mind.
-42,Pablo Picasso,"He can who thinks he can, and he can't who thinks he can't. This is an inexorable, indisputable law."
-43,Goethe,What is not started today is never finished tomorrow.
-45,Napoleon Hill,You can do it if you believe you can!
-46,Mary Kay Ash,"For every failure, there's an alternative course of action. You just have to find it. When you come to a roadblock, take a detour."
-47,Frank Wright,"The thing always happens that you really believe in; and the belief in a thing makes it happen."
-48,Frank Crane,"You may be deceived if you trust too much, but you will live in torment if you don't trust enough."
-49,Richard Braunstein,He who obtains has little. He who scatters has much.
-50,Johann Wolfgang von Goethe,Difficulties increase the nearer we get to the goal.
-51,Tony Robbins,The only limit to your impact is your imagination and commitment.
-52,Moliere,"It is not only for what we do that we are held responsible, but also for what we do not do."
-53,Alfred Adler,"Trust only movement. Life happens at the level of events, not of words. Trust movement."
-54,H. W. Arnold,The worst bankrupt in the world is the person who has lost his enthusiasm.
-55,Dhammapada,"Do not give your attention to what others do or fail to do; give it to what you do or fail to do."
-57,Dalai Lama,Compassion and happiness are not a sign of weakness but a sign of strength.
-58,Benjamin Franklin,One today is worth two tomorrows.
-59,Orison Marden,All men who have achieved great things have been great dreamers.
-60,Harry Banks,"For success, attitude is equally as important as ability."
-63,Virgil,They can do all because they think they can.
-66,Bob Newhart,"All I can say about life is, Oh God, enjoy it!"
-68,Brendan Francis,No yesterdays are ever wasted for those who give themselves to today.
-70,James Freeman Clarke,We are either progressing or retrograding all the while. There is no such thing as remaining stationary in this life.
-71,Abraham Lincoln,Most folks are about as happy as they make up their minds to be.
-73,unknown,"Courage is the discovery that you may not win, and trying when you know you can lose."
-74,Alfred Korzybski,"There are two ways to slide easily through life: to believe everything or to doubt everything; both ways save us from thinking."
-75,Barbara Baron,Don't wait for your feelings to change to take the action. Take the action and your feelings will change.
-76,Colette,"I love my past. I love my present. Im not ashamed of what Ive had, and Im not sad because I have it no longer."
-78,Pericles,Time is the wisest counsellor of all.
-79,Murray Gell-Mann,Think how hard physics would be if particles could think.
-80,Isocrates,The noblest worship is to make yourself as good and as just as you can.
-81,Mohandas Gandhi,The weak can never forgive. Forgiveness is the attribute of the strong.
-82,Peter Drucker,"Efficiency is doing things right; effectiveness is doing the right things."
-83,Wayne Dyer,"There is no way to prosperity, prosperity is the way."
-84,Isaac Asimov,A subtle thought that is in error may yet give rise to fruitful inquiry that can establish truths of great value.
-85,Aristotle,The energy of the mind is the essence of life.
-86,Carl Jung,The least of things with a meaning is worth more in life than the greatest of things without it.
-87,Lin-yutang,I have done my best: that is about all the philosophy of living one needs.
-89,H. Jackson Browne,Don't be afraid to go out on a limb. That's where the fruit is.
-90,Franklin Roosevelt,"When you come to the end of your rope, tie a knot and hang on."
-91,Bodhidharma,"All know the way; few actually walk it."
-96,Indira Gandhi,You can't shake hands with a clenched fist.
-97,Edward Young,"On every thorn, delightful wisdom grows, In every rill a sweet instruction flows."
-98,Robert Fulghum,"Peace is not something you wish for. It's something you make, something you do, something you are, and something you give away."
-99,Cicero,"Gratitude is not only the greatest of virtues, but the paren't of all the others."
-100,Dalai Lama,"I find hope in the darkest of days, and focus in the brightest. I do not judge the universe."
-101,Michelangelo,"The greatest danger for most of us is not that our aim is too high and we miss it, but that it is too low and we reach it."
-102,Gloria Steinem,"Without leaps of imagination, or dreaming, we lose the excitement of possibilities. Dreaming, after all, is a form of planning."
-103,Napoleon Hill,"If you cannot do great things, do small things in a great way."
-104,Holmes,Fame usually comes to those who are thinking about something else.
-105,Peter Drucker,There is nothing so useless as doing efficiently that which should not be done at all.
-106,Rene Descartes,The greatest minds are capable of the greatest vices as well as of the greatest virtues.
-107,Thich Nhat Hanh,May our hearts garden of awakening bloom with hundreds of flowers.
-109,Frank Tyger,Learn to listen. Opportunity could be knocking at your door very softly.
-110,Benjamin Disraeli,The secret of success is constancy to purpose.
-111,Marie Curie,Nothing in life is to be feared. It is only to be understood.
-112,Buddha,Every human being is the author of his own health or disease.
-113,Benjamin Disraeli,One secret of success in life is for a man to be ready for his opportunity when it comes.
-114,John Ruskin,"Sunshine is delicious, rain is refreshing, wind braces us up, snow is exhilarating; there is really no such thing as bad weather, only different kinds of good weather."
-115,unknown,"Change your thoughts, change your life!"
-116,Mahummad Ali,To be able to give away riches is mandatory if you wish to possess them. This is the only way that you will be truly rich.
-117,Benjamin Disraeli,"The greatest good you can do for another is not just share your riches, but reveal to them their own."
-118,German proverb,Silence is a fence around wisdom.
-119,Benjamin Disraeli,Ignorance never settle a question.
-121,William Hazlitt,Just as much as we see in others we have in ourselves.
-122,Elizabeth Browning,Light tomorrow with today!
-123,Albert Einstein,"I believe that a simple and unassuming manner of life is best for everyone, best both for the body and the mind."
-124,Alan Watts,No valid plans for the future can be made by those who have no capacity for living now.
-125,Marcus Aurelius,"Very little is needed to make a happy life; it is all within yourself, in your way of thinking."
-126,unknown,Most smiles are started by another smile.
-127,Byron Pulsifer,Bold is not the act of foolishness but the attribute and inner strength to act when others will not so as to move forward not backward.
-128,Mother Teresa,Peace begins with a smile.
-129,Marie Curie,Be less curious about people and more curious about ideas.
-130,Zig Ziglar,Positive thinking will let you do everything better than negative thinking will.
-131,unknown,Change your words. Change your world.
-132,Thich Nhat Hanh,"Sometimes your joy is the source of your smile, but sometimes your smile can be the source of your joy."
-133,Ralph Emerson,The only way to have a friend is to be one.
-134,Epictetus,"When you are offended at any man's fault, turn to yourself and study your own failings. Then you will forget your anger."
-135,Lee Mildon,People seldom notice old clothes if you wear a big smile.
-136,Mark Twain,Wrinkles should merely indicate where smiles have been.
-137,Walter Linn,"It is surprising what a man can do when he has to, and how little most men will do when they don't have to."
-138,unknown,"A friend is someone who understands your past, believes in your future, and accepts you just the way you are."
-139,Lao Tzu,"At the center of your being you have the answer; you know who you are and you know what you want."
-140,Frederick Douglass,"I prefer to be true to myself, even at the hazard of incurring the ridicule of others, rather than to be false, and to incur my own abhorrence."
-142,Buckminster Fuller,There is nothing in a caterpillar that tells you it's going to be a butterfly.
-143,Confucius,"Our greatest glory is not in never falling, but in rising every time we fall."
-145,unknown,"If we are facing in the right direction, all we have to do is keep on walking."
-146,Frances de Sales,Nothing is so strong as gentleness. Nothing is so gentle as real strength.
-147,Bruce Lee,"If you love life, don't waste time, for time is what life is made up of."
-148,John Wooden,You can't let praise or criticism get to you. It's a weakness to get caught up in either one.
-153,Mark Twain,"Whoever is happy will make others happy, too."
-154,Napoleon Hill,Don't wait. The time will never be just right.
-155,unknown,"When you don't know what you believe, everything becomes an argument. Everything is debatable. But when you stand for something, decisions are obvious."
-156,Rudolf Arnheim,"All perceiving is also thinking, all reasoning is also intuition, all observation is also invention."
-157,Albert Camus,All men have a sweetness in their life. That is what helps them go on. It is towards that they turn when they feel too worn out.
-158,Dalai Lama,I believe that we are fundamentally the same and have the same basic potential.
-160,Michael Jordan,"If you accept the expectations of others, especially negative ones, then you never will change the outcome."
-161,Billy Wilder,"Trust your own instinct. Your mistakes might as well be your own, instead of someone elses."
-162,Lululemon,Your outlook on life is a direct reflection on how much you like yourself.
-163,Lily Tomlin,"I always wanted to be somebody, but I should have been more specific."
-164,Buddha,"Three things cannot be long hidden: the sun, the moon, and the truth."
-165,Christopher Reeve,"Once you choose hope, anythings possible."
-166,Lao Tzu,"To see things in the seed, that is genius."
-167,unknown,Everyone smiles in the same language.
-168,Lao Tzu,"One who is too insistent on his own views, finds few to agree with him."
-169,William Shakespeare,"Go to your bosom: Knock there, and ask your heart what it doth know."
-170,William R. Inge,Nature takes away any faculty that is not used.
-172,Confucius,I am not bothered by the fact that I am unknown. I am bothered when I do not know others.
-173,Alfred Tennyson,The happiness of a man in this life does not consist in the absence but in the mastery of his passions.
-174,Confucius,"The Superior Man is aware of Righteousness, the inferior man is aware of advantage."
-175,Thich Nhat Hanh,The amount of happiness that you have depends on the amount of freedom you have in your heart.
-176,Moncure Conway,The best thing in every noble dream is the dreamer...
-177,Albert Einstein,"If A is success in life, then A equals x plus y plus z. Work is x; y is play; and z is keeping your mouth shut."
-178,Franklin D. Roosevelt,"It is common sense to take a method and try it. If it fails, admit it frankly and try another. But above all, try something."
-179,Elbert Hubbard,"A little more persistence, a little more effort, and what seemed hopeless failure may turn to glorious success."
-180,Napoleon Hill,The ladder of success is never crowded at the top.
-182,unknown,What you see depends on what you're looking for.
-183,Elisabeth Kubler-Ross,"I believe that we are solely responsible for our choices, and we have to accept the consequences of every deed, word, and thought throughout our lifetime."
-184,James Lowell,A weed is no more than a flower in disguise.
-185,John Simone,"If you're in a bad situation, don't worry it'll change. If you're in a good situation, don't worry it'll change."
-186,Marcus Aurelius,Everything that exists is in a manner the seed of that which will be.
-187,Pearl Buck,"You cannot make yourself feel something you do not feel, but you can make yourself do right in spite of your feelings."
-188,Daisaku Ikeda,"What matters is the value we've created in our lives, the people we've made happy and how much we've grown as people."
-189,unknown,"Love is not blind; it simply enables one to see things others fail to see."
-190,Confucius,Fine words and an insinuating appearance are seldom associated with true virtue
-191,Ralph Emerson,"Truth, and goodness, and beauty are but different faces of the same all."
-192,Robert Heller,"Never ignore a gut feeling, but never believe that it's enough."
-193,Anthony Robbins,"The path to success is to take massive, determined action."
-194,Robert Fulghum,"If you break your neck, if you have nothing to eat, if your house is on fire, then you got a problem. Everything else is inconvenience."
-195,Buddha,"In separateness lies the world's great misery, in compassion lies the world's true strength."
-197,Buddha,You only lose what you cling to.
-198,unknown,An obstacle may be either a stepping stone or a stumbling block.
-199,Danilo Dolci,"It's important to know that words don't move mountains. Work, exacting work moves mountains."
-200,Pierre Abelard,"The beginning of wisdom is found in doubting; by doubting we come to the question, and by seeking we may come upon the truth."
-201,Benjamin Franklin,"Experience keeps a dear school, but fools will learn in no other."
-202,Stephen Sigmund,Learn wisdom from the ways of a seedling. A seedling which is never hardened off through stressful situations will never become a strong productive plant.
-203,African proverb,"When there is no enemy within, the enemies outside cannot hurt you."
-204,Marian Edelman,You really can change the world if you care enough.
-205,Edmond Rostand,A man is not old as long as he is seeking something.
-206,Anais Nin,The possession of knowledge does not kill the sense of wonder and mystery. There is always more mystery.
-208,Helen Keller,We could never learn to be brave and patient if there were only joy in the world.
-209,Bishop Desmond Tutu,We must not allow ourselves to become like the system we oppose.
-211,Cullen Hightower,"When performance exceeds ambition, the overlap is called success."
-212,Coco Chanel,There are people who have money and people who are rich.
-213,Epictetus,Nature gave us one tongue and two ears so we could hear twice as much as we speak.
-214,Honore de Balzac,"The smallest flower is a thought, a life answering to some feature of the Great Whole, of whom they have a persistent intuition."
-216,Carl Jung,"Through pride we are ever deceiving ourselves. But deep down below the surface of the average conscience a still, small voice says to us, Something is out of tune."
-217,Wayne Dyer,"There is no scarcity of opportunity to make a living at what you love; theres only scarcity of resolve to make it happen."
-219,Napoleon Hill,When your desires are strong enough you will appear to possess superhuman powers to achieve.
-220,Richard Bach,"Sooner or later, those who win are those who think they can."
-222,Betty Friedan,It is easier to live through someone else than to become complete yourself.
-224,Ned Stark,I grew up with soldiers. I learned how to die a long time ago.
-225,Ralph Emerson,It is one of the blessings of old friends that you can afford to be stupid with them.
-226,Albert Schweitzer,"Do something wonderful, people may imitate it."
-228,Marcus Aurelius,"Accept the things to which fate binds you, and love the people with whom fate brings you together, but do so with all your heart."
-229,Marcus Aurelius,"If it is not right do not do it; if it is not true do not say it."
-230,Mahatma Gandhi,Strength does not come from physical capacity. It comes from an indomitable will.
-232,Richard Bach,"Argue for your limitations, and sure enough theyre yours."
-233,Michael Korda,"To succeed, we must first believe that we can."
-234,Lao Tzu,"When you realize there is nothing lacking, the whole world belongs to you."
-235,Jacob Braude,Consider how hard it is to change yourself and you'll understand what little chance you have in trying to change others.
-236,Buddha,Your work is to discover your work and then with all your heart to give yourself to it.
-237,Bernice Reagon,"Life's challenges are not supposed to paralyze you, they're supposed to help you discover who you are."
-238,Og Mandino,"Always do your best. What you plant now, you will harvest later."
-239,Paulo Coelho,Write your plans in pencil and give God the eraser.
-240,unknown,"Giving up doesn't always mean you are weak; sometimes it means that you are strong enough to let go."
-241,Wayne Dyer,Our intention creates our reality.
-242,Elizabeth Browning,"Whoso loves, believes the impossible."
-243,Charlotte Gilman,"Let us revere, let us worship, but erect and open-eyed, the highest, not the lowest; the future, not the past!"
-245,Jessamyn West,"It is very easy to forgive others their mistakes; it takes more grit to forgive them for having witnessed your own."
+﻿id;author;quotestext
+3;Tryon Edwards;"He that never changes his opinions, never corrects his mistakes, and will never be wiser on the morrow than he is today."
+4;Chinese proverb;"If you are patient in one moment of anger, you will escape one hundred days of sorrow."
+5;Lao Tzu;The journey of a thousand miles begins with one step.
+6;Mother Teresa;"If you can't feed a hundred people, then feed just one."
+7;Daisaku Ikeda;"True happiness means forging a strong spirit that is undefeated, no matter how trying our circumstances."
+8;Bruce Lee;Take no thought of who is right or wrong or who is better than. Be not for or against.
+9;Confucius;To be wrong is nothing unless you continue to remember it.
+10;Buddha;"To live a pure unselfish life, one must count nothing as ones own in the midst of abundance."
+11;Thomas Edison;Many of life's failures are people who did not realize how close they were to success when they gave up.
+12;Lawrence Peter;"If you don't know where you are going, you will probably end up somewhere else."
+13;Alfred Sheinwold;Learn all you can from the mistakes of others. You won't have time to make them all yourself.
+14;Seneca;The mind unlearns with difficulty what it has long learned.
+15;Richard Bach;"If you love someone, set them free. If they come back they're yours; if they don't they never were."
+16;John Lennon;"Yeah we all shine on, like the moon, and the stars, and the sun."
+18;Leonardo da Vinci;Who sows virtue reaps honour.
+19;M. Scott Peck;"Until you value yourself, you won't value your time. Until you value your time, you won't do anything with it."
+21;Byron Pulsifer;"Everyone can taste success when the going is easy, but few know how to taste victory when times get tough."
+22;Thich Nhat Hanh;"Smile, breathe and go slowly."
+23;Socrates;Be as you wish to seem.
+24;Jean Lacordaire;"We are the leaves of one branch, the drops of one sea, the flowers of one garden."
+25;Albert Camus;"In the depth of winter, I finally learned that there was within me an invincible summer."
+27;Margaret Bonnano;It is only possible to live happily ever after on a day to day basis.
+28;Aesop;"No act of kindness, no matter how small, is ever wasted."
+29;Jon Kabat-Zinn;"You can't stop the waves, but you can learn to surf."
+30;Sophocles;Wisdom is the supreme part of happiness.
+31;Ovid;The cause is hidden. The effect is visible to all.
+32;William Shakespeare;"Speak low, if you speak love."
+33;Henry Thoreau;The world is but a canvas to the imagination.
+34;Voltaire;"The longer we dwell on our misfortunes, the greater is their power to harm us."
+36;Desiderius Erasmus;The fox has many tricks. The hedgehog has but one. But that is the best of all.
+37;Tywin;A lion does not concern himself with the opinion of sheep.
+38;John Dewey;"Without some goals and some efforts to reach it, no man can live."
+40;A. Powell Davies;Life is just a chance to grow a soul.
+41;Antoine de Saint-Exupery;I know but one freedom and that is the freedom of the mind.
+42;Pablo Picasso;"He can who thinks he can, and he can't who thinks he can't. This is an inexorable, indisputable law."
+43;Goethe;What is not started today is never finished tomorrow.
+45;Napoleon Hill;You can do it if you believe you can!
+46;Mary Kay Ash;"For every failure, there's an alternative course of action. You just have to find it. When you come to a roadblock, take a detour."
+47;Frank Wright;"The thing always happens that you really believe in; and the belief in a thing makes it happen."
+48;Frank Crane;"You may be deceived if you trust too much, but you will live in torment if you don't trust enough."
+49;Lao Tzu;He who obtains has little. He who scatters has much.
+50;Johann Wolfgang von Goethe;Difficulties increase the nearer we get to the goal.
+51;Tony Robbins;The only limit to your impact is your imagination and commitment.
+52;Moliere;"It is not only for what we do that we are held responsible, but also for what we do not do."
+53;Alfred Adler;"Trust only movement. Life happens at the level of events, not of words. Trust movement."
+54;H. W. Arnold;The worst bankrupt in the world is the person who has lost his enthusiasm.
+55;Dhammapada;"Do not give your attention to what others do or fail to do; give it to what you do or fail to do."
+57;Dalai Lama;Compassion and happiness are not a sign of weakness but a sign of strength.
+58;Benjamin Franklin;One today is worth two tomorrows.
+59;Orison Marden;All men who have achieved great things have been great dreamers.
+60;Harry Banks;"For success, attitude is equally as important as ability."
+63;Virgil;They can do all because they think they can.
+66;Bob Newhart;"All I can say about life is, Oh God, enjoy it!"
+68;Brendan Francis;No yesterdays are ever wasted for those who give themselves to today.
+70;James Freeman Clarke;We are either progressing or retrograding all the while. There is no such thing as remaining stationary in this life.
+71;Abraham Lincoln;Most folks are about as happy as they make up their minds to be.
+73;unknown;"Courage is the discovery that you may not win, and trying when you know you can lose."
+74;Alfred Korzybski;"There are two ways to slide easily through life: to believe everything or to doubt everything; both ways save us from thinking."
+75;Barbara Baron;Don't wait for your feelings to change to take the action. Take the action and your feelings will change.
+76;Colette;"I love my past. I love my present. Im not ashamed of what Ive had, and Im not sad because I have it no longer."
+78;Pericles;Time is the wisest counsellor of all.
+79;Murray Gell-Mann;Think how hard physics would be if particles could think.
+80;Isocrates;The noblest worship is to make yourself as good and as just as you can.
+81;Mohandas Gandhi;The weak can never forgive. Forgiveness is the attribute of the strong.
+82;Peter Drucker;"Efficiency is doing things right; effectiveness is doing the right things."
+83;Wayne Dyer;"There is no way to prosperity, prosperity is the way."
+84;Isaac Asimov;A subtle thought that is in error may yet give rise to fruitful inquiry that can establish truths of great value.
+85;Aristotle;The energy of the mind is the essence of life.
+86;Carl Jung;The least of things with a meaning is worth more in life than the greatest of things without it.
+87;Lin-yutang;I have done my best: that is about all the philosophy of living one needs.
+89;H. Jackson Browne;Don't be afraid to go out on a limb. That's where the fruit is.
+90;Franklin Roosevelt;"When you come to the end of your rope, tie a knot and hang on."
+91;Bodhidharma;"All know the way; few actually walk it."
+96;Indira Gandhi;You can't shake hands with a clenched fist.
+97;Edward Young;"On every thorn, delightful wisdom grows, in every rill a sweet instruction flows."
+98;Robert Fulghum;"Peace is not something you wish for. It's something you make, something you do, something you are, and something you give away."
+99;Cicero;"Gratitude is not only the greatest of virtues, but the paren't of all the others."
+100;Dalai Lama;"I find hope in the darkest of days, and focus in the brightest. I do not judge the universe."
+101;Michelangelo;"The greatest danger for most of us is not that our aim is too high and we miss it, but that it is too low and we reach it."
+102;Gloria Steinem;"Without leaps of imagination, or dreaming, we lose the excitement of possibilities. Dreaming, after all, is a form of planning."
+103;Napoleon Hill;"If you cannot do great things, do small things in a great way."
+104;Holmes;Fame usually comes to those who are thinking about something else.
+105;Peter Drucker;There is nothing so useless as doing efficiently that which should not be done at all.
+106;Rene Descartes;The greatest minds are capable of the greatest vices as well as of the greatest virtues.
+107;Thich Nhat Hanh;May our hearts garden of awakening bloom with hundreds of flowers.
+109;Frank Tyger;Learn to listen. Opportunity could be knocking at your door very softly.
+110;Benjamin Disraeli;The secret of success is constancy to purpose.
+111;Marie Curie;Nothing in life is to be feared. It is only to be understood.
+112;Buddha;Every human being is the author of his own health or disease.
+113;Benjamin Disraeli;One secret of success in life is for a man to be ready for his opportunity when it comes.
+114;John Ruskin;"Sunshine is delicious, rain is refreshing, wind braces us up, snow is exhilarating; there is really no such thing as bad weather, only different kinds of good weather."
+115;unknown;"Change your thoughts, change your life!"
+116;Mahummad Ali;To be able to give away riches is mandatory if you wish to possess them. This is the only way that you will be truly rich.
+117;Benjamin Disraeli;"The greatest good you can do for another is not just share your riches, but reveal to them their own."
+118;German proverb;Silence is a fence around wisdom.
+119;Benjamin Disraeli;Ignorance never settle a question.
+121;William Hazlitt;Just as much as we see in others we have in ourselves.
+122;Elizabeth Browning;Light tomorrow with today!
+123;Albert Einstein;"I believe that a simple and unassuming manner of life is best for everyone, best both for the body and the mind."
+124;Alan Watts;No valid plans for the future can be made by those who have no capacity for living now.
+125;Marcus Aurelius;"Very little is needed to make a happy life; it is all within yourself, in your way of thinking."
+126;unknown;Most smiles are started by another smile.
+127;Byron Pulsifer;Bold is not the act of foolishness but the attribute and inner strength to act when others will not so as to move forward not backward.
+128;Mother Teresa;Peace begins with a smile.
+129;Marie Curie;Be less curious about people and more curious about ideas.
+130;Zig Ziglar;Positive thinking will let you do everything better than negative thinking will.
+131;unknown;Change your words. Change your world.
+132;Thich Nhat Hanh;"Sometimes your joy is the source of your smile, but sometimes your smile can be the source of your joy."
+133;Ralph Emerson;The only way to have a friend is to be one.
+134;Epictetus;"When you are offended at any man's fault, turn to yourself and study your own failings. Then you will forget your anger."
+135;Lee Mildon;People seldom notice old clothes if you wear a big smile.
+136;Mark Twain;Wrinkles should merely indicate where smiles have been.
+137;Walter Linn;"It is surprising what a man can do when he has to, and how little most men will do when they don't have to."
+138;unknown;"A friend is someone who understands your past, believes in your future, and accepts you just the way you are."
+139;Lao Tzu;"At the center of your being you have the answer; you know who you are and you know what you want."
+140;Frederick Douglass;"I prefer to be true to myself, even at the hazard of incurring the ridicule of others, rather than to be false, and to incur my own abhorrence."
+142;Buckminster Fuller;There is nothing in a caterpillar that tells you it's going to be a butterfly.
+143;Confucius;"Our greatest glory is not in never falling, but in rising every time we fall."
+145;unknown;"If we are facing in the right direction, all we have to do is keep on walking."
+146;Frances de Sales;Nothing is so strong as gentleness. Nothing is so gentle as real strength.
+147;Bruce Lee;"If you love life, don't waste time, for time is what life is made up of."
+148;John Wooden;You can't let praise or criticism get to you. It's a weakness to get caught up in either one.
+153;Mark Twain;"Whoever is happy will make others happy, too."
+154;Napoleon Hill;Don't wait. The time will never be just right.
+155;unknown;"When you don't know what you believe, everything becomes an argument. Everything is debatable. But when you stand for something, decisions are obvious."
+156;Rudolf Arnheim;"All perceiving is also thinking, all reasoning is also intuition, all observation is also invention."
+157;Albert Camus;All men have a sweetness in their life. That is what helps them go on. It is towards that they turn when they feel too worn out.
+158;Dalai Lama;I believe that we are fundamentally the same and have the same basic potential.
+160;Michael Jordan;"If you accept the expectations of others, especially negative ones, then you never will change the outcome."
+161;Billy Wilder;"Trust your own instinct. Your mistakes might as well be your own, instead of someone elses."
+162;Lululemon;Your outlook on life is a direct reflection on how much you like yourself.
+163;Lily Tomlin;"I always wanted to be somebody, but I should have been more specific."
+164;Buddha;"Three things cannot be long hidden: the sun, the moon, and the truth."
+165;Christopher Reeve;"Once you choose hope, anythings possible."
+166;Lao Tzu;"To see things in the seed, that is genius."
+167;unknown;Everyone smiles in the same language.
+168;Lao Tzu;"One who is too insistent on his own views, finds few to agree with him."
+169;William Shakespeare;"Go to your bosom: Knock there, and ask your heart what it doth know."
+170;William R. Inge;Nature takes away any faculty that is not used.
+172;Confucius;I am not bothered by the fact that I am unknown. I am bothered when I do not know others.
+173;Alfred Tennyson;The happiness of a man in this life does not consist in the absence but in the mastery of his passions.
+174;Confucius;"The Superior Man is aware of Righteousness, the inferior man is aware of advantage."
+175;Thich Nhat Hanh;The amount of happiness that you have depends on the amount of freedom you have in your heart.
+176;Moncure Conway;The best thing in every noble dream is the dreamer...
+177;Albert Einstein;"If A is success in life, then A equals x plus y plus z. Work is x; y is play; and z is keeping your mouth shut."
+178;Franklin D. Roosevelt;"It is common sense to take a method and try it. If it fails, admit it frankly and try another. But above all, try something."
+179;Elbert Hubbard;"A little more persistence, a little more effort, and what seemed hopeless failure may turn to glorious success."
+180;Napoleon Hill;The ladder of success is never crowded at the top.
+182;unknown;What you see depends on what you're looking for.
+183;Elisabeth Kubler-Ross;"I believe that we are solely responsible for our choices, and we have to accept the consequences of every deed, word, and thought throughout our lifetime."
+184;James Lowell;A weed is no more than a flower in disguise.
+185;John Simone;"If you're in a bad situation, don't worry it'll change. If you're in a good situation, don't worry it'll change."
+186;Marcus Aurelius;Everything that exists is in a manner the seed of that which will be.
+187;Pearl Buck;"You cannot make yourself feel something you do not feel, but you can make yourself do right in spite of your feelings."
+188;Daisaku Ikeda;"What matters is the value we've created in our lives, the people we've made happy and how much we've grown as people."
+189;unknown;"Love is not blind; it simply enables one to see things others fail to see."
+190;Confucius;Fine words and an insinuating appearance are seldom associated with true virtue
+191;Ralph Emerson;"Truth, and goodness, and beauty are but different faces of the same all."
+192;Robert Heller;"Never ignore a gut feeling, but never believe that it's enough."
+193;Anthony Robbins;"The path to success is to take massive, determined action."
+194;Robert Fulghum;"If you break your neck, if you have nothing to eat, if your house is on fire, then you got a problem. Everything else is inconvenience."
+195;Buddha;"In separateness lies the world's great misery, in compassion lies the world's true strength."
+197;Buddha;You only lose what you cling to.
+198;unknown;An obstacle may be either a stepping stone or a stumbling block.
+199;Danilo Dolci;"It's important to know that words don't move mountains. Work, exacting work moves mountains."
+200;Peter Abelard;"The beginning of wisdom is found in doubting; by doubting we come to the question, and by seeking we may come upon the truth."
+201;Benjamin Franklin;"Experience keeps a dear school, but fools will learn in no other."
+202;Stephen Sigmund;Learn wisdom from the ways of a seedling. A seedling which is never hardened off through stressful situations will never become a strong productive plant.
+203;African proverb;"When there is no enemy within, the enemies outside cannot hurt you."
+204;Marian Edelman;You really can change the world if you care enough.
+205;Edmond Rostand;A man is not old as long as he is seeking something.
+206;Anais Nin;The possession of knowledge does not kill the sense of wonder and mystery. There is always more mystery.
+208;Helen Keller;We could never learn to be brave and patient if there were only joy in the world.
+209;Bishop Desmond Tutu;We must not allow ourselves to become like the system we oppose.
+211;Cullen Hightower;"When performance exceeds ambition, the overlap is called success."
+212;Coco Chanel;There are people who have money and people who are rich.
+213;Epictetus;Nature gave us one tongue and two ears so we could hear twice as much as we speak.
+214;Honore de Balzac;"The smallest flower is a thought, a life answering to some feature of the Great Whole, of whom they have a persistent intuition."
+216;Carl Jung;"Through pride we are ever deceiving ourselves. But deep down below the surface of the average conscience a still, small voice says to us, something is out of tune."
+217;Wayne Dyer;"There is no scarcity of opportunity to make a living at what you love; theres only scarcity of resolve to make it happen."
+219;Napoleon Hill;When your desires are strong enough you will appear to possess superhuman powers to achieve.
+220;Richard Bach;"Sooner or later, those who win are those who think they can."
+222;Betty Friedan;It is easier to live through someone else than to become complete yourself.
+224;Ned Stark;I grew up with soldiers. I learned how to die a long time ago.
+225;Ralph Emerson;It is one of the blessings of old friends that you can afford to be stupid with them.
+226;Albert Schweitzer;"Do something wonderful, people may imitate it."
+228;Marcus Aurelius;"Accept the things to which fate binds you, and love the people with whom fate brings you together, but do so with all your heart."
+229;Marcus Aurelius;"If it is not right do not do it; if it is not true do not say it."
+230;Mahatma Gandhi;Strength does not come from physical capacity. It comes from an indomitable will.
+232;Richard Bach;"Argue for your limitations, and sure enough theyre yours."
+233;Michael Korda;"To succeed, we must first believe that we can."
+234;Lao Tzu;"When you realize there is nothing lacking, the whole world belongs to you."
+235;Jacob Braude;Consider how hard it is to change yourself and you'll understand what little chance you have in trying to change others.
+236;Buddha;Your work is to discover your work and then with all your heart to give yourself to it.
+237;Bernice Reagon;"Life's challenges are not supposed to paralyze you, they're supposed to help you discover who you are."
+238;Og Mandino;"Always do your best. What you plant now, you will harvest later."
+239;Paulo Coelho;Write your plans in pencil and give God the eraser.
+240;unknown;"Giving up doesn't always mean you are weak; sometimes it means that you are strong enough to let go."
+241;Wayne Dyer;Our intention creates our reality.
+242;Elizabeth Browning;"Whoso loves, believes the impossible."
+243;Charlotte Gilman;"Let us revere, let us worship, but erect and open-eyed, the highest, not the lowest; the future, not the past!"
+245;Jessamyn West;"It is very easy to forgive others their mistakes; it takes more grit to forgive them for having witnessed your own."
+247;Denis Waitley;You must welcome change as the rule but not as your ruler.
+248;Maureen Dowd;"The minute you settle for less than you deserve, you get even less than you settled for."
+249;Jonathan Kozol;"Pick battles big enough to matter, small enough to win."
+250;Mary Morrissey;You block your dream when you allow your fear to grow bigger than your faith.
+251;Chinese proverb;Tension is who you think you should be. Relaxation is who you are.
+252;Byron Pulsifer;To give hope to someone occurs when you teach them how to use the tools to do it for themselves.
+253;Ralph Waldo Emerson;If the stars should appear but one night every thousand years how man would marvel and adore.
+254;Ygritte;"You know nothing, Jon Snow."
+255;John Lennon;"You may say Im a dreamer, but Im not the only one, I hope someday you will join us, and the world will live as one."
+256;Leonardo da Vinci;All our knowledge has its origins in our perceptions.
+257;Byron Pulsifer;"Transformation doesn't take place with a vacuum; instead, it occurs when we are indirectly and directly connected to all those around us."
+258;Robert Orben;Don't think of it as failure. Think of it as time-released success.
+259;Walter Lippmann;Ideals are an imaginative understanding of that which is desirable in that which is possible.
+261;Heraclitus;"You cannot step twice into the same river, for other waters are continually flowing in."
+262;Lao Tzu;From wonder into wonder existence opens.
+263;Johann Wolfgang von Goethe;The person born with a talent they are meant to use will find their greatest happiness in using it.
+264;Ralph Waldo Emerson;Most of the shadows of life are caused by standing in our own sunshine.
+265;Nelson Mandela;There is nothing like returning to a place that remains unchanged to find the ways in which you yourself have altered.
+266;unknown;Every new day is another chance to change your life.
+268;Byron Pulsifer;Courage is not about taking risks unknowingly but putting your own being in front of challenges that others may not be able to.
+270;Seneca;No man was ever wise by chance.
+271;Eleanor Roosevelt;I think somehow we learn who we really are and then live with that decision.
+272;Ralph Emerson;"We must be as courteous to a man as we are to a picture, which we are willing to give the advantage of a good light."
+274;Cheng Yen;"Happiness does not come from having much, but from being attached to little."
+275;Gordon Hinckley;"Our lives are the only meaningful expression of what we believe and in Whom we believe. And the only real wealth, for any of us, lies in our faith."
+276;Ralph Emerson;Make the most of yourself for that is all there is of you.
+277;Napoleon Bonaparte;"Take time to deliberate, but when the time for action has arrived, stop thinking and go in."
+278;Pablo Picasso;I begin with an idea and then it becomes something else.
+279;Mahatma Gandhi;"It is the quality of our work which will please God, not the quantity."
+280;unknown;The day always looks brighter from behind a smile.
+281;Japanese proverb;The day you decide to do it is your lucky day.
+282;Mary Kay Ash;"Aerodynamically the bumblebee shouldn't be able to fly, but the bumblebee doesn't know that so it goes on flying anyway."
+284;Abraham Lincoln;"As our case is new, we must think and act anew."
+285;Anatole France;"To accomplish great things, we must not only act, but also dream; not only plan, but also believe."
+286;Leo Aikman;"Blessed is the person who is too busy to worry in the daytime, and too sleepy to worry at night."
+287;Charles Schwab;"Keeping a little ahead of conditions is one of the secrets of business, the trailer seldom goes far."
+288;Franz Liszt;"Beware of missing chances; otherwise it may be altogether too late some day."
+289;William Shakespeare;"God has given you one face, and you make yourself another."
+290;Richard Bach;Bad things are not the worst things that can happen to us. Nothing is the worst thing that can happen to us!
+292;Richard Bach;"You are always free to change your mind and choose a different future, or a different past."
+293;Bernard Shaw;Life isn't about finding yourself. Life is about creating yourself.
+294;unknown;Today is the tomorrow we worried about yesterday.
+296;Buddha;"Better than a thousand hollow words, is one word that brings peace."
+297;Buddha;"He who experiences the unity of life sees his own Self in all beings, and all beings in his own Self, and looks on everything with an impartial eye."
+298;Robert Louis Stevenson;There is no duty we so underrate as the duty of being happy. By being happy we sow anonymous benefits upon the world.
+299;Buddha;"If you propose to speak, always ask yourself, is it true, is it necessary, is it kind."
+300;Baltasar Gracián;"Without courage, wisdom bears no fruit."
+302;Confucius;"They must often change, who would be constant in happiness or wisdom."
+303;Benjamin Franklin;There never was a good knife made of bad steel.
+305;Charles F. Kettering;One fails forward toward success.
+306;Henry J. Kaiser;Trouble is only opportunity in work clothes.
+310;Elbert Hubbard;The final proof of greatness lies in being able to endure criticism without resentment.
+312;Sai Baba;What is new in the world? Nothing. What is old in the world? Nothing. Everything has always been and will always be.
+313;Arie de Gues;Your ability to learn faster than your competition is your only sustainable competitive advantage.
+314;Bruce Lee;"To hell with circumstances; I create opportunities."
+315;John Locke;I have always thought the actions of men the best interpreters of their thoughts.
+317;Mark Twain;The exercise of an extraordinary gift is the supremest pleasure in life.
+318;Oprah Winfrey;Don't settle for a relationship that won't let you be yourself.
+319;Leonardo da Vinci;"In rivers, the water that you touch is the last of what has passed and the first of that which comes; so with present time."
+322;Napoleon Hill;"All achievements, all earned riches, have their beginning in an idea."
+323;Walt Disney;"If you can dream it, you can do it."
+324;Dalai Lama;"More often than not, anger is actually an indication of weakness rather than of strength."
+325;Donald Trump;"Money was never a big motivation for me, except as a way to keep score. The real excitement is playing the game."
+326;Norman Peale;"If you want things to be different, perhaps the answer is to become different yourself."
+327;Ralph Waldo Emerson;"Do not follow where the path may lead. Go, instead, where there is no path and leave a trail."
+328;Muriel Rukeyser;"The universe is made of stories, not atoms."
+329;Orison Marden;The Creator has not given you a longing to do that which you have no ability to do.
+331;Albert Einstein;The only real valuable thing is intuition.
+332;Benjamin Disraeli;"Never apologize for showing feeling. When you do so, you apologize for truth."
+333;Lewis B. Smedes;To forgive is to set a prisoner free and realize that prisoner was you.
+334;Sam Levenson;It's so simple to be wise. Just think of something stupid to say and then don't say it.
+335;Ray Bradbury;Living at risk is jumping off the cliff and building your wings on the way down.
+336;John Dryden;Fortune befriends the bold.
+338;Alan Cohen;"Appreciation is the highest form of prayer, for it acknowledges the presence of good wherever you shine the light of your thankful thoughts."
+339;Napoleon Hill;No alibi will save you from accepting the responsibility.
+340;Johann Wolfgang von Goethe;Great talent finds happiness in execution.
+341;Keshavan Nair;"With courage you will dare to take risks, have the strength to be compassionate, and the wisdom to be humble. Courage is the foundation of integrity."
+342;Henry Longfellow;"He that respects himself is safe from others; he wears a coat of mail that none can pierce."
+343;Frank Tyger;"Your future depends on many things, but mostly on you."
+344;unknown;From small beginnings come great things.
+345;Napoleon Hill;Ideas are the beginning points of all fortunes.
+347;Norman Schwarzkopf;The truth of the matter is that you always know the right thing to do. The hard part is doing it.
+349;Anne Frank;"I can shake off everything as I write; my sorrows disappear, my courage is reborn"
+350;Lao Tzu;Doing nothing is better than being busy doing nothing.
+351;unknown;"To get something you never had, you have to do something you never did."
+352;Laurence J. Peter;"There are two kinds of failures: those who thought and never did, and those who did and never thought."
+354;unknown;Every man dies. Not every man really lives.
+356;Anne Frank;How wonderful it is that nobody need wait a single moment before starting to improve the world.
+357;Friedrich Nietzsche;I obviously do everything to be hard to understand myself
+358;Arthur Conan Doyle;"Mediocrity knows nothing higher than itself, but talent instantly recognizes genius."
+359;Donald Kircher;A man of ability and the desire to accomplish something can do anything.
+360;Benjamin Franklin;Well done is better than well said.
+362;Benjamin Disraeli;"Action may not always bring happiness, but there is no happiness without action."
+363;Victoria Holt;"Never regret. If it's good, it's wonderful. If it's bad, it's experience."
+365;Confucius;"What you do not want done to yourself, do not do to others."
+366;Buddha;The only real failure in life is not to be true to the best one knows.
+367;K. Kamarajar;Intelligence plus character - that is the goal of true education.
+368;Thornton Wilder;We can only be said to be alive in those moments when our hearts are conscious of our treasures.
+369;Frank Tyger;Be a good listener. Your ears will never get you in trouble.
+370;Richard Bach;"To bring anything into your life, imagine that it's already there."
+371;Simone Weil;"Liberty, taking the word in its concrete sense, consists in the ability to choose."
+372;Albert Schweitzer;"Constant kindness can accomplish much. As the sun makes ice melt, kindness causes misunderstanding, mistrust, and hostility to evaporate."
+373;Buddha;"You, yourself, as much as anybody in the entire universe, deserve your love and affection."
+374;Pema Chodron;"The future is completely open, and we are writing it moment to moment."
+375;Pema Chodron;"To be fully alive, fully human, and completely awake is to be continually thrown out of the nest."
+377;Byron Pulsifer;"Your destiny isn't just fate; it is how you use your own developed abilities to get what you want."
+381;Buddha;The foot feels the foot when it feels the ground.
+382;unknown;You can do what's reasonable or you can decide what's possible.
+383;Leonardo da Vinci;Learning never exhausts the mind.
+384;Oprah Winfrey;Do the one thing you think you cannot do. Fail at it. Try again. Do better the second time. The only people who never tumble are those who never mount the high wire. This is your moment. Own it.
+385;Joseph Wood Krutch;"Technology made large populations possible; large populations now make technology indispensable."
+386;Colin Powell;"If you are going to achieve excellence in big things, you develop the habit in little matters. Excellence is not an exception; it is a prevailing attitude."
+387;Napoleon Hill;No man can succeed in a line of endeavor which he does not like.
+388;Eleanor Roosevelt;"Friendship with oneself is all important, because without it one cannot be friends with anyone else in the world."
+390;Anaïs Nin;"Dreams pass into the reality of action. From the actions stems the dream again; and this interdependence produces the highest form of living."
+391;Mark Twain;"Whenever you find yourself on the side of the majority, it is time to pause and reflect."
+392;Eric Hoffer;"In times of change, learners inherit the earth, while the learned find themselves beautifully equipped to deal with a world that no longer exists."
+393;Daniel J. Boorstin;The greatest obstacle to discovery is not ignorance - it is the illusion of knowledge.
+394;Benjamin Franklin;"When in doubt, don&#039;t."
+395;Sogyal Rinpoche;"We must never forget that it is through our actions, words, and thoughts that we have a choice."
+396;Amy Poehler;"There&#039;s power in looking silly and not caring that you do."
+397;Frank Herbert;The beginning of knowledge is the discovery of something we do not understand.
+399;A. A. Milne;One of the advantages of being disorderly is that one is constantly making exciting discoveries.
+400;Michael Jordan;"If you&#039;re trying to achieve, there will be roadblocks. I&#039;ve had them; everybody has had them. But obstacles don&#039;t have to stop you. If you run into a wall, don&#039;t turn around and give up. Figure out how to climb it, go through it, or work around it."
+403;Carl Jung;"Your vision will become clear only when you look into your heart. Who looks outside, dreams. Who looks inside, awakens."
+404;Augustine of Hippo;Patience is the companion of wisdom.
+405;Man Ray;"Technology is anything that wasn&#039;t around when you were born."
+406;Epictetus;One that desires to excel should endeavor in those things that are in themselves most excellent.
+407;Aristotle;"Quality is not an act; it is a habit."
+408;Billie Armstrong;Our passion is our strength.
+409;"Elizabeth Kapu&#039;uwailani Lindsey";"We live in a society bloated with data yet starved for wisdom. We&#039;re connected 24/7, yet anxiety, fear, depression and loneliness are at an all-time high. We must course-correct."
+410;Cory Doctorow;"This is why I loved technology: if you used it right, it could give you power and privacy."
+411;Thomas Jefferson;Honesty is the first chapter in the book of wisdom.
+412;Helen Keller;The most beautiful things in the world cannot be seen or even touched. They must be felt with the heart.
+413;Gordon Hinckley;Our kindness may be the most persuasive argument for that which we believe.
+414;Buddha;"If we could see the miracle of a single flower clearly, our whole life would change."
+415;Jane Austen;Friendship is certainly the finest balm for the pangs of disappointed love.
+416;Stephen Covey;We are not animals. We are not a product of what has happened to us in our past. We have the power of choice.
+417;Johann Wolfgang von Goethe;Character develops itself in the stream of life.
+418;Jerome;The friendship that can cease has never been real.
+419;Blaise Pascal;"We are all something, but none of us are everything."
+420;Howard H. Aiken;"Don&#039;t worry about people stealing your ideas. If your ideas are any good, you&#039;ll have to ram them down people&#039;s throats."
+421;Abraham Lincoln;"Government of the people, by the people, for the people, shall not perish from the Earth."
+422;Carl Jung;"Who looks outside, dreams, who looks inside, awakes."
+424;Albert Camus;"Blessed are the hearts that can bend; they shall never be broken."
+426;William James;Act as if what you do makes a difference. It does.
+427;Buddha;"We are shaped by our thoughts; we become what we think. When the mind is pure, joy follows like a shadow that never leaves."
+428;Henry David Thoreau;It is a characteristic of wisdom not to do desperate things.
+430;Tony Robbins;"Stay committed to your decisions, but stay flexible in your approach."
+431;Abraham Lincoln;"We the people are the rightful masters of both Congress and the courts, not to overthrow the Constitution but to overthrow the men who pervert the Constitution."
+432;Confucius;"Reviewing what you have learned and learning anew, you are fit to be a teacher."
+433;Holly Near;"If you have the guts to keep making mistakes, your wisdom and intelligence leap forward with huge momentum."
+434;Ralph Waldo Emerson;"Great are they who see that spiritual is stronger than any material force, that thoughts rule the world."
+435;Michel de Montaigne;"I care not so much what I am to others as what I am to myself. I will be rich by myself, and not by borrowing."
+436;Douglas Coupland;TV and the Internet are good because they keep stupid people from spending too much time out in public.
+437;Mark Twain;"Twenty years from now you will be more disappointed by the things that you didn&#039;t do than by the ones you did do."
+438;Abraham Lincoln;"How many legs does a dog have if you call his tail a leg? Four. Saying that a tail is a leg doesn&#039;t make it a leg."
+440;Helen Keller;Optimism is the faith that leads to achievement. Nothing can be done without hope and confidence.
+441;Anaïs Nin;"Age does not protect you from love. But love, to some extent, protects you from age."
+442;Buddha;"Do not overrate what you have received, nor envy others. He who envies others does not obtain peace of mind."
+443;Brian Tracy;Goals are the fuel in the furnace of achievement.
+444;Nelson Mandela;"And as we let our own light shine, we unconsciously give other people permission to do the same."
+445;John Locke;A friendship founded on business is better than a business founded on friendship.
+446;Tony Robbins;"Life is a gift, and it offers us the privilege, opportunity, and responsibility to give something back by becoming more"
+447;Confucius;"Wisdom, compassion, and courage are the three universally recognized moral qualities of men."
+448;Elizabeth Montagu;"I endeavor to be wise when I cannot be merry, easy when I cannot be glad, content with what cannot be mended and patient when there is no redress."
+449;Heraclitus;"All is flux; nothing stays still."
+450;Dhammapada;"Just as a flower, which seems beautiful has color but no perfume, so are the fruitless words of a man who speaks them but does them not."
+451;Bruce Lee;"Love is like a friendship caught on fire. In the beginning a flame, very pretty, often hot and fierce, but still only light and flickering. As love grows older, our hearts mature and our love becomes as coals, deep-burning and unquenchable."
+452;Winston Churchill;"Never, never, never give up."
+453;Mark Twain;A thing long expected takes the form of the unexpected when at last it comes.
+454;Laozi;The power of intuitive understanding will protect you from harm until the end of your days.
+455;Sigmund Freud;Being entirely honest with oneself is a good exercise.
+457;Marilyn Monroe;"Experts on romance say for a happy marriage there has to be more than a passionate love. For a lasting union, they insist, there must be a genuine liking for each other. Which, in my book, is a good definition for friendship."
+459;Winston Churchill;"It is no use saying, &#039;We are doing our best.&#039; You have got to succeed in doing what is necessary."
+460;John Dryden;A thing well said will be wit in all languages.
+461;Dalai Lama;"Happiness mainly comes from our own attitude, rather than from external factors."
+463;Woody Allen;His lack of education is more than compensated for by his keenly developed moral bankruptcy.
+465;William James;"Most people never run far enough on their first wind to find out they&#039;ve got a second."
+466;Ansel Adams;In wisdom gathered over time I have found that every experience is a form of exploration.
+467;Alexandre Dumas;"All human wisdom is summed up in two words; wait and hope."
+469;H. Jackson Brown Jr.;"Remember that a gesture of friendship, no matter how small, is always appreciated."
+470;Joseph Campbell;"When we quit thinking primarily about ourselves and our own self-preservation, we undergo a truly heroic transformation of consciousness."
+472;Barack Obama;Focusing your life solely on making a buck shows a poverty of ambition. It asks too little of yourself. And it will leave you unfulfilled.
+473;Kahlil Gibran;Your friend is your needs answered.
+474;Benjamin Disraeli;The greatest good you can do for another is not just share your riches but reveal to them their own.
+475;Henry van Dyke Jr.;"Use what talents you possess; the woods would be very silent if no birds sang there except those that sang best."
+476;Caterina Fake;"If we are not given the chance to forget, we are also not given the chance to recover our memories, to alter them with time, perspective, and wisdom. Forgetting, we can be ourselves beyond what the past has told us we are; we can evolve. That is the possibility we want from the future."
+477;Francis of Assisi;"Lord, make me an instrument of thy peace. Where there is hatred, let me sow love."
+478;Nikos Kazantzakis;"By believing passionately in something that does not yet exist, we create it."
+479;George Herbert;"Read as you taste fruit or savor wine, or enjoy friendship, love or life."
+480;Eden Phillpotts;"The universe is full of magical things, patiently waiting for our wits to grow sharper."
+481;François de La Rochefoucauld;"A true friend is the greatest of all blessings, and that which we take the least care of all to acquire."
+482;Og Mandino;Do all things with love.
+483;Benjamin Franklin;Honesty is the best policy.
+484;Cicero;"A friend is, as it were, a second self."
+485;Lucille Ball;"In life, all good things come hard, but wisdom is the hardest to come by."
+486;David McCullough;Real success is finding your lifework in the work that you love.
+487;Aristotle;Change in all things is sweet.
+488;Buddha;"We are what we think. All that we are arises with our thoughts. With our thoughts, we make the world."
+489;Gloria Steinem;"If the shoe doesn&#039;t fit, must we change the foot?"
+490;Carl Jung;Everything that irritates us about others can lead us to an understanding of ourselves.
+491;Henry Ward Beecher;"There is no friendship, no love, like that of the parent for the child."
+492;Lewis Carroll;"If you don&#039;t know where you are going, any road will get you there."
+493;Douglas Adams;"Human beings, who are almost unique in having the ability to learn from the experience of others, are also remarkable for their apparent disinclination to do so."
+494;Henri-Frédéric Amiel;So long as a person is capable of self-renewal they are a living being.
+495;Doris Mortman;"Until you make peace with who you are, you&#039;ll never be content with what you have."
+496;Seneca the Younger;One of the most beautiful qualities of true friendship is to understand and to be understood.
+497;Bruce Lee;Take things as they are. Punch when you have to punch. Kick when you have to kick.
+500;Dwight D. Eisenhower;The older I get the more wisdom I find in the ancient rule of taking first things first. A process which often reduces the most complex human problem to a manageable proportion.
+501;George Bernard Shaw;The possibilities are numerous once we decide to act and not react.
+503;Henry Reed;Intuition is the very force or activity of the soul in its experience through whatever has been the experience of the soul itself.
+504;Marcus Aurelius;Waste no more time arguing about what a good man should be. Be one.
+505;Dan Gable;"Gold medals aren&#039;t really made of gold. They&#039;re made of sweat, determination, and a hard-to-find alloy called guts."
+508;Carl Jung;Knowing your own darkness is the best method for dealing with the darkness of other people.
+509;Samuel Johnson;Love is the wisdom of the fool and the folly of the wise.
+510;Euripides;"Friends show their love in times of trouble, not in happiness."
+511;Friedrich Nietzsche;Does wisdom perhaps appear on the earth as a raven which is inspired by the smell of carrion?
+512;Alan Watts;"Things are as they are. Looking out into it the universe at night, we make no comparisons between right and wrong stars, nor between well and badly arranged constellations."
+513;Marcus Aurelius;Accept the things to which fate binds you and love the people with whom fate brings you together but do so with all your heart.
+514;Anna Pavlova;"To follow, without halt, one aim: There is the secret of success."
+515;Confucius;Silence is the true friend that never betrays.
+516;Afrika Bambaataa;"The Universal Zulu Nation stands to acknowledge wisdom, understanding, freedom, justice, and equality, peace, unity, love, and having fun, work, overcoming the negative through the positive, science, mathematics, faith, facts, and the wonders of God, whether we call him Allah, Jehovah, Yahweh, or Jah."
+517;Sam Walton;Swim upstream. Go the other way. Ignore the conventional wisdom.
+518;Cicero;"Friendship improves happiness and abates misery, by the doubling of our joy and the dividing of our grief."
+519;E. E. Cummings;It takes courage to grow up and become who you really are.
+520;Margaret Chase Smith;The right way is not always the popular and easy way. Standing for right when it is unpopular is a true test of moral character.
+521;Eric Liddell;"God made me fast. And when I run, I feel His pleasure."
+522;Octavia E. Butler;"Sometimes being a friend means mastering the art of timing. There is a time for silence. A time to let go and allow people to hurl themselves into their own destiny. And a time to prepare to pick up the pieces when it&#039;s all over."
+525;George S. Patton;A good plan violently executed now is better than a perfect plan executed next week.
+526;Thomas Edison;I have friends in overalls whose friendship I would not swap for the favor of the kings of the world.
+527;John Burroughs;The smallest deed is better than the greatest intention.
+529;Winston Churchill;"If we open a quarrel between past and present, we shall find that we have lost the future."
+530;Leo Tolstoy;The two most powerful warriors are patience and time.
+531;Albert Camus;"Friendship often ends in love, but love in friendship - never."
+532;Marie Curie;"Nothing in life is to be feared, it is only to be understood. Now is the time to understand more, so that we may fear less."
+533;Ralph Waldo Emerson;Self-trust is the first secret of success.
+534;Michel de Montaigne;"If there is such a thing as a good marriage, it is because it resembles friendship rather than love."
+535;Henry David Thoreau;True friendship can afford true knowledge. It does not depend on darkness and ignorance.
+536;Ralph Waldo Emerson;"Life is a progress, and not a station."
+537;Muhammad Ali;"Friendship... is not something you learn in school. But if you haven&#039;t learned the meaning of friendship, you really haven&#039;t learned anything."
+538;William Arthur Ward;"Adversity causes some men to break, others to break records."
+539;Laozi;"If you do not change direction, you may end up where you are heading."
+540;Lewis Cass;"People may doubt what you say, but they will believe what you do."
+541;Mark Twain;Kindness is the language which the deaf can hear and the blind can see.
+542;Buddha;It is better to travel well than to arrive.
+543;Laozi;Be the chief but never the lord.
+544;Rowan Williams;"And when the world is created, it is created in such a way that those eternal objects of God&#039;s loving wisdom become actualities - interacting with one another, relating to God in the finite realm."
+545;William Burroughs;Your mind will answer most questions if you learn to relax and wait for the answer.
+546;Benjamin Disraeli;Through perseverance many people win success out of what seemed destined to be certain failure.
+547;Dalai Lama;"If we have a positive mental attitude, then even when surrounded by hostility, we shall not lack inner peace."
+549;Ella Wheeler Wilcox;"All love that has not friendship for its base, is like a mansion built upon the sand."
+550;Marcus Aurelius;He who lives in harmony with himself lives in harmony with the world.
+551;Friedrich Nietzsche;"Love is blind; friendship closes its eyes."
+552;Confucius;To study and not think is a waste. To think and not study is dangerous.
+553;John Lennon;"Love is the flower you&#039;ve got to let grow."
+554;Confucius;"The superior man is satisfied and composed; the mean man is always full of distress."
+556;Henry David Thoreau;All this worldly wisdom was once the unamiable heresy of some wise man.
+558;Buddha;"In separateness lies the world&#039;s great misery, in compassion lies the world&#039;s true strength."
+559;Johann Wolfgang von Goethe;"Just trust yourself, then you will know how to live."
+560;Thomas Haynes Bayly;Absence makes the heart grow fonder.
+561;Socrates;Wisdom begins in wonder.
+562;John Ruskin;"Quality is never an accident; it is always the result of intelligent effort."
+563;Thomas Fuller;"If you have one true friend, you have more than your share."
+564;Thomas Dewar;Minds are like parachutes. They only function when open.
+565;Charles Dickens;"There is a wisdom of the head, and a wisdom of the heart."
+566;Calvin Coolidge;"Knowledge comes, but wisdom lingers. It may not be difficult to store up in the mind a vast quantity of facts within a comparatively short time, but the ability to form judgments requires the severe discipline of hard work and the tempering heat of experience and maturity."
+567;Anatole France;I prefer the folly of enthusiasm to the indifference of wisdom.
+568;William James;The deepest craving of human nature is the need to be appreciated.
+569;Marian Wright Edelman;"You&#039;re not obligated to win. You&#039;re obligated to keep trying to do the best you can every day."
+570;Doug Larson;A true friend is one who overlooks your failures and tolerates your success!
+571;Albert Einstein;"Try not to become a man of success, but rather try to become a man of value."
+573;Lou Holtz;"I can&#039;t believe that God put us on this earth to be ordinary."
+574;Napoleon Hill;A goal is a dream with a deadline.
+575;John Lennon;"Time you enjoy wasting, was not wasted."
+576;Michael Phelps;"You can&#039;t put a limit on anything. The more you dream, the farther you get."
+578;Daisaku Ikeda;"If we look at the world with a love of life, the world will reveal its beauty to us."
+579;Epictetus;"It is the nature of the wise to resist pleasures, but the foolish to be a slave to them."
+580;Margaret Cousins;"Appreciation can make a day, even change a life. Your willingness to put it into words is all that is necessary."
+581;Ralph Waldo Emerson;We gain the strength of the temptation we resist.
+582;Joseph Addison;"True happiness arises, in the first place, from the enjoyment of oneself, and in the next, from the friendship and conversation of a few select companions."
+583;Albert Einstein;Great ideas often receive violent opposition from mediocre minds.
+584;Henry Ford;My best friend is the one who brings out the best in me.
+585;Phyllis Grissim-Theroux;Mistakes are the usual bridge between inexperience and wisdom.
+586;Mia Hamm;"I am building a fire, and everyday I train, I add more fuel. At just the right moment, I light the match."
+587;William Blake;No bird soars too high if he soars with his own wings.
+588;Aesop;Appearances are often deceiving.
+589;Bruce Lee;"If you love life, don&#039;t waste time, for time is what life is made up of."
+590;John Madden;"The fewer rules a coach has, the fewer rules there are for players to break."
+592;Ralph Waldo Emerson;"Good thoughts are no better than good dreams, unless they be executed."
+593;Christopher Reeve;"What makes Superman a hero is not that he has power, but that he has the wisdom and the maturity to use the power wisely. From an acting point of view, that&#039;s how I approached the part."
+595;Jawaharlal Nehru;A leader or a man of action in a crisis almost always acts subconsciously and then thinks of the reasons for his action.
+596;Dwight D. Eisenhower;Motivation is the art of getting people to do what you want them to do because they want to do it.
+597;Epictetus;It is impossible for a man to learn what he thinks he already knows.
+598;Woody Allen;Eighty percent of success is showing up.
+599;Kahlil Gibran;"To understand the heart and mind of a person, look not at what he has already achieved, but at what he aspires to do."
+600;George Eliot;"What do we live for, if it is not to make life less difficult for each other?"
+601;William Arthur Ward;"When we seek to discover the best in others, we somehow bring out the best in ourselves."
+602;Richard Bach;"If you love someone, set them free. If they come back, they&#039;re yours; if they don&#039;t, they never were."
+603;Robert Frost;A poem begins in delight and ends in wisdom.
+604;Oprah Winfrey;"If you want your life to be more rewarding, you have to change the way you think."
+605;John Wooden;"It&#039;s the little details that are vital. Little things make big things happen."
+606;Epictetus;"It&#039;s not what happens to you, but how you react to it that matters."
+607;Wayne Dyer;Miracles come in moments. Be ready and willing.
+608;H. Jackson Brown Jr.;"Don&#039;t be afraid to go out on a limb. That&#039;s where the fruit is."
+609;Lord Byron;Friendship is Love without his wings!
+610;Marianne Williamson;Joy is what happens to us when we allow ourselves to recognize how good things really are.
+611;Aristotle;It is the mark of an educated mind to be able to entertain a thought without accepting it.
+612;Oliver Wendell Holmes Jr.;What lies behind us and what lies before us are small matters compared to what lies within us.
+614;Rabindranath Tagore;We read the world wrong and say that it deceives us.
+615;Benjamin Franklin;"Watch the little things; a small leak will sink a great ship."
+616;Henry David Thoreau;"Friends... they cherish one another&#039;s hopes. They are kind to one another&#039;s dreams."
