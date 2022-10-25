@@ -4,7 +4,7 @@ require('dotenv').config();
 
 axios.get(process.env.DATA_SOURCE)
   .then(function (response) {
-    var quotes = response.data.quote;
+    var quotes = response.data.content;
     var author = response.data.author;
     console.log(quotes + '\n');
     console.log('written by ' + author);
